@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-30T10:22:42.303Z" agent="5.0 (X11)" etag="uVc6lA8poSkG0t734HJc" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-30T10:23:11.322Z" agent="5.0 (X11)" etag="2oawuP8homo2dIFgmot8" version="20.0.4" type="github">
   <diagram id="l5HfpWFaHAtyfRfRbP9f" name="Page-1">
     <mxGraphModel dx="1183" dy="636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -127,7 +127,12 @@
           <mxGeometry x="478.75" y="200" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JDDzChWWamHBL8bAgmot-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="aYM6xtdw5qeDzCKNdwKn-39" target="aYM6xtdw5qeDzCKNdwKn-23" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="415" y="350" />
+              <mxPoint x="455" y="350" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="aYM6xtdw5qeDzCKNdwKn-39" value="SMSS catalog average colors" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="364.75" y="280" width="100" height="60" as="geometry" />
