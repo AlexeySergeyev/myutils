@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-30T10:18:05.907Z" agent="5.0 (X11)" etag="hIxsPGvBNbcYVIenJzsD" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-30T10:22:42.303Z" agent="5.0 (X11)" etag="uVc6lA8poSkG0t734HJc" version="20.0.4" type="github">
   <diagram id="l5HfpWFaHAtyfRfRbP9f" name="Page-1">
-    <mxGraphModel dx="378" dy="629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1183" dy="636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -28,7 +28,7 @@
         <mxCell id="aYM6xtdw5qeDzCKNdwKn-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="aYM6xtdw5qeDzCKNdwKn-10" target="aYM6xtdw5qeDzCKNdwKn-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aYM6xtdw5qeDzCKNdwKn-10" value="&lt;div&gt;SkyMapper&lt;/div&gt;&lt;div&gt;asteroids&lt;br&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
+        <mxCell id="aYM6xtdw5qeDzCKNdwKn-10" value="&lt;div&gt;SMSS&lt;/div&gt;&lt;div&gt;asteroids&lt;br&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
           <mxGeometry x="420" y="20" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="doPpmUsIKa_UCK7kxjEv-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.145;exitY=1;exitDx=0;exitDy=-4.35;exitPerimeter=0;" edge="1" parent="1" source="aYM6xtdw5qeDzCKNdwKn-11" target="aYM6xtdw5qeDzCKNdwKn-41">
@@ -99,7 +99,7 @@
             <mxPoint x="416" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aYM6xtdw5qeDzCKNdwKn-23" value="SKM to SDSS color transform" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="aYM6xtdw5qeDzCKNdwKn-23" value="SMSS to SDSS color transform" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="404.5" y="360" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JDDzChWWamHBL8bAgmot-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="aYM6xtdw5qeDzCKNdwKn-29" target="aYM6xtdw5qeDzCKNdwKn-22" edge="1">
@@ -114,25 +114,25 @@
         <mxCell id="doPpmUsIKa_UCK7kxjEv-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aYM6xtdw5qeDzCKNdwKn-35" target="aYM6xtdw5qeDzCKNdwKn-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aYM6xtdw5qeDzCKNdwKn-35" value="SDSS NEOs" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+        <mxCell id="aYM6xtdw5qeDzCKNdwKn-35" value="SMSS NEOs" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="405.5" y="120" width="119" height="70" as="geometry" />
         </mxCell>
         <mxCell id="JDDzChWWamHBL8bAgmot-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="aYM6xtdw5qeDzCKNdwKn-37" target="aYM6xtdw5qeDzCKNdwKn-39" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aYM6xtdw5qeDzCKNdwKn-37" value="SKM catalog individual colors" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="aYM6xtdw5qeDzCKNdwKn-37" value="SMSS catalog individual colors" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="364.75" y="200" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aYM6xtdw5qeDzCKNdwKn-38" value="SKM catalog photometry" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="aYM6xtdw5qeDzCKNdwKn-38" value="SMSS catalog photometry" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="478.75" y="200" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JDDzChWWamHBL8bAgmot-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="aYM6xtdw5qeDzCKNdwKn-39" target="aYM6xtdw5qeDzCKNdwKn-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aYM6xtdw5qeDzCKNdwKn-39" value="SKM catalog average colors" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="aYM6xtdw5qeDzCKNdwKn-39" value="SMSS catalog average colors" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="364.75" y="280" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aYM6xtdw5qeDzCKNdwKn-40" value="SKM catalog computed colors" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="aYM6xtdw5qeDzCKNdwKn-40" value="SMSS catalog computed colors" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="474.75" y="280" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JDDzChWWamHBL8bAgmot-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="aYM6xtdw5qeDzCKNdwKn-41" target="aYM6xtdw5qeDzCKNdwKn-42" edge="1">
